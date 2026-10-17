@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gerardbutler-jpg.github.io/Gerard-Butler/sitemap.xml
